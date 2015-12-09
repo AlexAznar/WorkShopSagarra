@@ -5,3 +5,6 @@
 2.- Scrap profile
     - Persist data 
     - validate data
+
+3.- Dump data to Bodas.com
+    - Script dump data
