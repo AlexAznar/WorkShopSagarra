@@ -1,1 +1,5 @@
-Somos la leche
+1.- List Url
+  - Scrapping pagination.
+  - Keep / persist URL.
+
+
