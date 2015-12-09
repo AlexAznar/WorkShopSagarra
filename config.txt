@@ -1,3 +1,0 @@
-- DBMysql user: Root
-- DBMysql password: 123Toor
-
