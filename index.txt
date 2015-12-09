@@ -2,4 +2,6 @@
   - Scrapping pagination.
   - Keep / persist URL.
 
-
+2.- Scrap profile
+    - Persist data 
+    - validate data
