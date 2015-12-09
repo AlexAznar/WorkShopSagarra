@@ -1,0 +1,9 @@
+config.txt
+cache/
+log/
+privado/
+www/
+target/
+bin/
+vendor/
+
