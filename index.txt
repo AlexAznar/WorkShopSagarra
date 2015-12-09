@@ -1,1 +1,3 @@
-Somos la leche
+2.- Scrap profile
+    - Persist data 
+    - validate data
